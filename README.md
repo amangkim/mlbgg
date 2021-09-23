@@ -1,4 +1,4 @@
-# Multiple Layered Blockchain Governance Game
+# Multi-Layered Blockchain Governance Game
 
 ### *mlbgg_demo_v01*  --  Matlab Programing Demo
 
