@@ -7,7 +7,7 @@
 </br>
 
 ## Reference Citation
-* **Kim, S.-K.** (2022), <a href="https://www.mdpi.com/2075-1680/11/1/27" target="_blank">**Multi-Layered Blockchain Governance Game**, *Axioms* **11** (1), 27.</a></br>
+* **Kim, S.-K.** (2022), <a href="https://www.mdpi.com/2075-1680/11/1/27" target="_blank">**Multi-Layered Blockchain Governance Game**,</a> *Axioms* **11** (1), 27.</br>
 </br>
 
 
